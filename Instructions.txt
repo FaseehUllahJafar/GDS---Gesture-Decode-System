@@ -1,0 +1,5 @@
+Instructions:
+1. opne file location of jupyter notebook shortcut
+2. copy path of scripts folder and paste in environment variable paths of system variables
+3. copy path of Library\bin folder and paste in environment variable paths of system variables
+4. edit path of bat file to the project directory
