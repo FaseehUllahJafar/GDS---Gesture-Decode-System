@@ -1,0 +1,12 @@
+Number of Videos 	' Ankle  ' =  33
+Number of Videos 	' Blood  ' =  34
+Number of Videos 	' Fist  ' =  33
+Number of Videos 	' Heart  ' =  40
+Number of Videos 	' Jaw  ' =  35
+Number of Videos 	' Knuckle  ' =  41
+Number of Videos 	' Lips  ' =  35
+Number of Videos 	' Palm  ' =  38
+Number of Videos 	' Skull  ' =  45
+Number of Videos 	' Thumb  ' =  43
+Minimum Nubmber of Videos:  33
+Minimum Nubmber of Videos:  45
