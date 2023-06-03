@@ -3,7 +3,9 @@ This project translates Pakistan Sign Language (PSL) video to text or label. The
 
 
 It has majorly two parts:
+
 1 - Video to Text
+
 2 - Real time translation or live camera feed
 
 <!-- ## Preview -->
