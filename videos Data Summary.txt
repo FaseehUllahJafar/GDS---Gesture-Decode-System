@@ -9,4 +9,18 @@ Number of Videos 	' Palm  ' =  38
 Number of Videos 	' Skull  ' =  45
 Number of Videos 	' Thumb  ' =  43
 Minimum Nubmber of Videos:  33
-Minimum Nubmber of Videos:  45
+Maximum Nubmber of Videos:  45
+
+
+
+Number of Videos 	' Abdomen  ' =  37
+Number of Videos 	' Back  ' =  40
+Number of Videos 	' Body  ' =  40
+Number of Videos 	' Brain  ' =  36
+Number of Videos 	' Elbow  ' =  36
+Number of Videos 	' Finger  ' =  35
+Number of Videos 	' Gall Bladder  ' =  43
+Number of Videos 	' Intestine  ' =  36
+Number of Videos 	' Lungs  ' =  39
+Minimum Nubmber of Videos:  35
+Maximum Nubmber of Videos:  43
